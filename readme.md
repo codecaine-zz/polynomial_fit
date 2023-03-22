@@ -33,7 +33,7 @@ git clone https://github.com/codecaine-zz/polynomial_fit.git
 2. navigate project folder
 
 ```bash
-cd test-scores-prediction
+cd polynomial_fit
 ```
 
 3. run script
